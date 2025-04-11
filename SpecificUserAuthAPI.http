@@ -1,6 +1,0 @@
-@SpecificUserAuthAPI_HostAddress = http://localhost:5161
-
-GET {{SpecificUserAuthAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
