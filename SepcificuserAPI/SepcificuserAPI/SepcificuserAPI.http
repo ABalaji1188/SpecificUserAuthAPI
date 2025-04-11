@@ -1,0 +1,6 @@
+@SepcificuserAPI_HostAddress = http://localhost:5112
+
+GET {{SepcificuserAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
